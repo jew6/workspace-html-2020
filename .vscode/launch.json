@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "pwa-msedge",
+            "request": "launch",
+            "name": "Open HTMLelements.html",
+            "file": "c:\\Users\\Walker\\Desktop\\CSCI 225\\CSCI225\\workspace-html-2020\\HTMLelements.html"
+        }
+    ]
+}
